@@ -6,7 +6,11 @@
 
 書式はKeep a Chengelog を参考にしています。  
 
-## [Unreleased] 
+## [Unreleased]
+
+### Changed
+- ポートフォリオ一覧に作品を追加
+- CSS修正案をコメントアウトで追記
 
 ## [0.2.0] - 2026-11-17
 
